@@ -1,0 +1,1 @@
+# ADG-AppLovin-iOS-Adapter
