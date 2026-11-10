@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
-            exact: "13.6.4"
+            exact: "13.7.0"
         ),
     ],
     targets: [
@@ -36,8 +36,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGAppLovinAdapter",
-            url: "https://github.com/AdGeneration/ADG-AppLovin-iOS-Adapter/releases/download/13.6.400/ADGAppLovin.xcframework.zip",
-            checksum: "32fa51255b5016702fa54394116aba506b0165507727cce7f0982d0ee2fd6a88"
+            url: "https://github.com/AdGeneration/ADG-AppLovin-iOS-Adapter/releases/download/13.7.0/ADGAppLovin.xcframework.zip",
+            checksum: "e14a8553428ea21565a0cbb89a78ff476e1adb09522c97fd14bb160c88e7e5bb"
         ),
     ]
 )
